@@ -1,7 +1,6 @@
 ﻿
-<DIV>
-<img src="https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true" 
-height="100" width="120" ></DIV>
+<DIV><img src="https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true" height="100" width="120" ></DIV>
+
 # YBC
 ##### YBChain
 ###### YBC
@@ -30,9 +29,5 @@ network value system.Big data+Artificial intelligence+Ecological
 
 application=YBC.
 
-
-
-
-    
 
 
