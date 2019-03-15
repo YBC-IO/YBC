@@ -1,10 +1,12 @@
 ﻿
 
+<div align="center">
+<img src="https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true" height="100" width="120" ></div>
+
+
 # YBC
 ##### YBChain
 ###### YBC
-<div align="center">
-<img src="https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true" height="100" width="120" ></div>
 
 YBC is launched by Singapore cloud data foundation and jointly organized 
 
