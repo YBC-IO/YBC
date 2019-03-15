@@ -1,8 +1,5 @@
 ﻿
 # YBC
-=======
-# YBC
-#### Emial：ybchain@163.com
 ##### YBChain
 ###### YBC
 
