@@ -3,6 +3,8 @@
 # YBC
 ##### YBChain
 ###### YBC
+<div align="center">
+<img src="https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true" height="100" width="120" ></div>
 
 YBC is launched by Singapore cloud data foundation and jointly organized 
 
@@ -27,8 +29,6 @@ multi-level usage strategy and many more,which realized Internet data
 network value system.Big data+Artificial intelligence+Ecological 
 
 application=YBC.
-<div align="center">
-<img src="https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true" height="100" width="120" ></div>
 
 
 
