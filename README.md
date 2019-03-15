@@ -27,7 +27,7 @@ multi-level usage strategy and many more,which realized Internet data
 network value system.Big data+Artificial intelligence+Ecological 
 
 application=YBC.
-[!img](https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true)
+![img]](https://github.com/YBC-IO/YBC/blob/master/logo.png?raw=true)
 
 
 
